@@ -1,0 +1,13 @@
+.wheel {
+  position: absolute;
+  left: 50%;
+  height: 80%;
+  width: 40%;
+}
+.westers-wof{
+  position: absolute;
+  top: 20%;
+  left: 5%;
+  width: 40%;
+}
+
