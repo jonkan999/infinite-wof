@@ -1,7 +1,7 @@
 
 import Wheel from './Wheel.js';
 import './App.css'
-import wofimg from './westers-wof.png'
+import wofimg from './westers-wof2.png'
 
 function App() {
   return (
