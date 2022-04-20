@@ -70,7 +70,7 @@ li:first-child .text {
   padding-top: 20px;
   cursor: pointer;
   font-weight: bold;
-  font-size: 25px;
+  font-size: 21px;
   color: black;
   font-family: DINOT-Light Regular;
 }
@@ -85,7 +85,7 @@ li:nth-child(4) .text {
   padding-top: 20px;
   cursor: pointer;
   font-weight: bold;
-  font-size: 25px;
+  font-size: 21px;
   color: black;
   font-family: DINOT-Light Regular;
 }
@@ -100,7 +100,7 @@ li:nth-child(4) .text {
   padding-top: 20px;
   cursor: pointer;
   font-weight: bold;
-  font-size: 25px;
+  font-size: 21px;
   color: white;
   font-family: DINOT-Light Regular;
 }
